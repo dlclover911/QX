@@ -1,0 +1,21 @@
+#Another - 公益
+DOMAIN-SUFFIX, emby.zn.al, Emby
+DOMAIN-SUFFIX, my.liminalnet.site, Emby
+DOMAIN-SUFFIX, yunti.online, Emby
+DOMAIN-SUFFIX, ald.emby.moe, Emby
+DOMAIN-SUFFIX, lite.cn2gias.uk, Emby
+DOMAIN-SUFFIX, cf.5msky.com, Emby
+
+#赔钱机场 - 冰红茶
+DOMAIN-SUFFIX, emby.hohai.eu.org, Emby
+DOMAIN-SUFFIX, ciallo.party, Emby
+DOMAIN-SUFFIX, hka-emby.aliz.work, Emby
+DOMAIN-SUFFIX, embyplus.org, Emby
+
+#直连
+DOMAIN-SUFFIX, kfc.v50.su, DIRECT
+DOMAIN-SUFFIX, hka-emby.aliz.work, DIRECT
+DOMAIN-SUFFIX, ap-cn01.emby.bangumi.ca, DIRECT
+DOMAIN-SUFFIX, onatoshi.114514.quest, DIRECT
+
+
